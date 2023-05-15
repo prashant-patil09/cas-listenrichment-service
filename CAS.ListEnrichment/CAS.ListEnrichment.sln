@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAS.ListEnrichment", "CAS.ListEnrichment\CAS.ListEnrichment.csproj", "{E2125614-5FA7-46F4-A6D1-CE0B01C1232C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2125614-5FA7-46F4-A6D1-CE0B01C1232C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2125614-5FA7-46F4-A6D1-CE0B01C1232C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2125614-5FA7-46F4-A6D1-CE0B01C1232C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2125614-5FA7-46F4-A6D1-CE0B01C1232C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33665255-4007-4DF9-9BBC-A5FFA5E707CC}
+	EndGlobalSection
+EndGlobal
